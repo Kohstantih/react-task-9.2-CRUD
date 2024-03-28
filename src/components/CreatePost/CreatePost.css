@@ -1,0 +1,15 @@
+.create-post_box {
+    border: 1px solid gray;
+
+    padding: 20px;
+}
+
+.btn-publish_wrapper {
+    display: flex;
+    justify-content: flex-end;
+
+    border-top: 1px solid gray;
+
+    margin-top: 20px;
+    padding-top: 10px;
+}

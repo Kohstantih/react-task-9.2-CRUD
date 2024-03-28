@@ -1,0 +1,27 @@
+.home_wrapper {
+    display: flex;
+    color: white;
+
+    margin-bottom: 20px;
+}
+
+.post_wrapper {
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+.btns-edit_box {
+    display: flex;
+    justify-content: flex-end;
+
+    color: white;
+
+    border-top: 2px solid gray;
+
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.btn-edit {
+    margin-right: 10px;
+}

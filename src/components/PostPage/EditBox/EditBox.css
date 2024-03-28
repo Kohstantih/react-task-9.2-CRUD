@@ -1,0 +1,37 @@
+.edit_wrapper {
+    position: relative;
+
+    padding-top: 25px;
+}
+
+.btn_close-edit {
+    border: none;
+    background-color: transparent;
+
+    font-size: 1em;
+
+    position: absolute;
+    top: 0; right: 0;
+
+    cursor: pointer;
+}
+
+.btn_close-edit:hover {
+    font-size: 1.2em;
+    top: -0.1em; right: -0.1em;
+}
+
+.btn_close-edit:active {
+    font-size: 1em;
+    top: 0; right: 0;
+}
+
+.btn_send_box {
+    display: flex;
+    justify-content: flex-end;
+
+    border-top: 1px solid gray;
+
+    margin-top: 20px;
+    padding-top: 10px;
+}
